@@ -3,7 +3,7 @@
 This project is a replica of the Google homepage created using HTML and CSS. It uses Font Awesome icons for the search, microphone, and camera icons.
 
 ## Approach
-To replicate the Google homepage, I first used Google Chrome's Inspect feature to analyze the structure and styles of the original page:Google. 
+To replicate the Google homepage, I first used Google Chrome's Inspect feature to analyze the structure and styles of the original page: Google. 
 I then decided to break it down into three main components. 
 
 Navbar: This section includes links to About, Store, Gmail, Images, and a hamburger icon.
