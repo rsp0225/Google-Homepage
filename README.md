@@ -22,7 +22,7 @@ To replicate the Google homepage, I first used Google Chrome's Inspect feature t
 
 ## Usage
 
-This project is a static website replica of the Google homepage. You can interact with it in the same way you would with the original Google homepage.
+This project is a static website replica of the Google homepage and for educational and learning purposes only. You can interact with it in the same way you would with the original Google homepage.
 
 ## Credits
 
