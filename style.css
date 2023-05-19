@@ -1,0 +1,109 @@
+body {
+    display: contents;
+  }
+  
+  .navbar {
+    /* border: 1px solid red; */
+    margin: 20px;
+  }
+  
+  .navbar-left {
+    float: left;
+  }
+  
+  .navbar-right {
+    float: right;
+  }
+  
+  .nav-item {
+    text-decoration: none;
+    color: #202124;
+    margin-right: 15px;
+  }
+  
+  .nav-item:hover {
+    text-decoration: underline;
+  }
+  
+  .center {
+    margin-top: 300px;
+    text-align: center;
+  }
+  
+  .input-area {
+    margin-top: 20px;
+  }
+  
+  .input-box {
+    width: 582px;
+    height: 46px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding-left: 45px;
+    padding-right: 80px;
+  }
+  
+  .search-icon {
+    position: relative;
+    left: 40px;
+    color: #9aa0a6;
+  }
+  
+  .micro-icon {
+    position: relative;
+    right: 80px;
+    color: #9aa0a6;
+  }
+  
+  .camera-icon {
+    position: relative;
+    right: 60px;
+    color: #9aa0a6;
+  }
+  
+  .button-area {
+    padding-top: 18px;
+  }
+  
+  .button-style {
+    height: 36px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    font-family: Roboto, arial, sans-serif;
+    padding: 0 16px;
+    margin: 11px 4px;
+  }
+  
+  .button-style:hover {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0px;
+    background: #f2f2f2;
+    width: 97.5%;
+  }
+  
+  .footer-item {
+    padding: 15px 30px;
+    font-size: 15px;
+  }
+  
+  .footer-right {
+    float: right;
+  }
+  
+  .footer-item a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.54);
+    padding-right: 15px;
+  }
+  
+  .footer-item a:hover {
+    text-decoration: underline;
+  }
