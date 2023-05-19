@@ -2,6 +2,10 @@
 
 This project is a replica of the Google homepage created using HTML and CSS. It uses Font Awesome icons for the search, microphone, and camera icons.
 
+## Live Site
+
+This project is now hosted on Netlify. You can view the live site at [https://google-homepage-rsp0225.netlify.app/](https://google-homepage-rsp0225.netlify.app/).
+
 ## Approach
 To replicate the Google homepage, I first used Google Chrome's Inspect feature to analyze the structure and styles of the original page - Google. I then decided to break it down into three main components: 
 
@@ -22,6 +26,7 @@ This project is a static website replica of the Google homepage. You can interac
 
 ## Credits
 
+-The live site for this project is hosted on Netlify, a cloud computing company that provides a serverless environment for web development projects.
 - The Font Awesome icons used in the project were sourced from [fontawesome.com](https://fontawesome.com).
 - The original Google homepage was used as a reference for the project.
 
