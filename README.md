@@ -26,7 +26,7 @@ This project is a static website replica of the Google homepage. You can interac
 
 ## Credits
 
--The live site for this project is hosted on Netlify, a cloud computing company that provides a serverless environment for web development projects.
+- The live site for this project is hosted on Netlify, a cloud computing company that provides a serverless environment for web development projects.
 - The Font Awesome icons used in the project were sourced from [fontawesome.com](https://fontawesome.com).
 - The original Google homepage was used as a reference for the project.
 
